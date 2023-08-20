@@ -181,4 +181,9 @@ nav{
         max-width: 1000px;
         margin: 0 auto;
     }
+
+    .service + .service{
+        margin-left: 2em;
+         
+    }
 }
