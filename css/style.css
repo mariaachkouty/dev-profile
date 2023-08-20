@@ -142,8 +142,8 @@ header{
 
 .logo{
     max-width: 80px; /*100*/
-    margin-top: 3px; /*ma*/
-    margin-left: 3px;/*ma*/
+    margin-top: .25em; /*ma*/
+    margin-left: .25em;/*ma*/
 
 }
 
